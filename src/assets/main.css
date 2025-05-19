@@ -1,0 +1,7 @@
+/* src/assets/main.css */
+/* Estilos personalizados */
+.router-link-active {
+  background-color: #f0f9ff;
+  color: #2563eb;
+  border-right: 4px solid #2563eb;
+}
